@@ -1,0 +1,27 @@
+{
+  "name": "mnode",
+  "version": "1.0.0",
+  "description": "trying to develop a small node framework ",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/relmossaoui/mnode.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "framework"
+  ],
+  "author": "relmossaoui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/relmossaoui/mnode/issues"
+  },
+  "homepage": "https://github.com/relmossaoui/mnode#readme"
+}
